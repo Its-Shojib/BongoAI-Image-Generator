@@ -52,7 +52,6 @@ const ImageGenerator = () => {
                 <div
                     onClick={() => imageGenerator()} className='flex items-center justify-center w-[200px] h-16 text-xl rounded-[50px] bg-[#6d35c6] cursor-pointer'>Generate</div>
             </div>
-
         </div>
     )
 }
