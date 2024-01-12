@@ -32,11 +32,7 @@ const ImageGenerator = () => {
         let data_array = data?.data;
         setImageUrl(data_array[0]?.url);
         setLoading(false)
-
     }
-
-
-
 
     return (
         <div className='flex flex-col items-center gap-7 min-h-[calc(100vh-80px)] p-2'>
