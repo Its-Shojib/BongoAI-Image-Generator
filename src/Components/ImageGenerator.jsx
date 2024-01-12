@@ -27,13 +27,12 @@ const ImageGenerator = () => {
                 size: "512x512",
             }),
         });
-        
+
         let data = await response.json();
         let data_array = data?.data;
         setImageUrl(data_array[0]?.url);
         setLoading(false)
     }
-
     return (
         <div className='flex flex-col items-center gap-7 min-h-[calc(100vh-80px)] p-2'>
             <div className='text-3xl md:text-5xl font-medium'><span className='text-rose-800 font-bold'>Bongo-AI</span> Image Generator </div>
