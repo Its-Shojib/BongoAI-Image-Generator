@@ -12,5 +12,4 @@
 * **Responsive:** This Web App is full responsive with Mobile, Tab, and PC Version.
 
 # Technology Used:
-
 * **React Js ,Tailwind, Api-key, Open-AI**
