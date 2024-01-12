@@ -26,8 +26,8 @@ const ImageGenerator = () => {
                 n: 1,
                 size: "512x512",
             }),
-        }
-        );
+        });
+        
         let data = await response.json();
         let data_array = data?.data;
         setImageUrl(data_array[0]?.url);
