@@ -2,6 +2,7 @@
 import img from '../../public/Bongo.png'
 import { FaFacebook, FaGithub, FaGlobe, FaLinkedin } from "react-icons/fa";
 
+
 const Footer = () => {
     return (
         <div>
