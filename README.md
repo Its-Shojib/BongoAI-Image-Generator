@@ -1,11 +1,9 @@
 # [Bongo-AI](https://bongo-ai-image-generator.netlify.app)
 
 
-# Live Link: 
-   [Click Here](https://bongo-ai-image-generator.netlify.app)
+# Live Link: [Click Here](https://bongo-ai-image-generator.netlify.app)
 
 # The Features are:
-
 * **Image Generate:** This Web-App can generate all kind of Picture you wanna see.
 * **Beautiful Design:** You can see the beautifull dynamic on the design.
 * **Open AI:** Image generate with Open-AI api.
